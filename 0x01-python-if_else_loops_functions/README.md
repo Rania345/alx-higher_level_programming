@@ -1,4 +1,4 @@
-# Python if/else, loops, functions
+# Python - if/else, loops, functions
 ## Requirements
 ### Python Scripts
 - Allowed editors: vi, vim, emacs
