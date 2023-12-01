@@ -1,4 +1,4 @@
-# Python - import modules
+# Python - import & modules
 ## Requirements
 ### General
 - Allowed editors: vi, vim, emacs
