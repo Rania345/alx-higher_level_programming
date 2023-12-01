@@ -1,4 +1,4 @@
-# Python data structures
+# Python - Data Structures: Lists, Tuples
 ## Requirements
 ### Python Scripts
 - Allowed editors: vi, vim, emacs
