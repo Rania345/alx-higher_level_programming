@@ -1,3 +1,3 @@
 # Alx higher level programming
 ### Sprint 2
-Python language
+Python programming language
