@@ -1,6 +1,4 @@
-# Alx - Higher level programming
-### Sprint 2
-## Higher-level programming - Python, JavaScript, SQL
+# Higher-level programming - Python, JavaScript, SQL
 <hr/>
 This repo contains all the projects that I have done in the alx-Holberton curriculum on Higher level programming.
 
@@ -10,7 +8,7 @@ A high-level language is any programming language that enables development of a 
 A high-level language has a higher level of abstraction from the computer, and focuses more on the programming logic rather than the underlying hardware components such as memory addressing and register utilization.
 
 
-## Acknowledgements
+## Acknowledgements:
 All work contained in this project was completed as part of the curriculum for the ALX-SE programme. `ALX Africa` is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. 
 
 ## Technologies:technologist:
