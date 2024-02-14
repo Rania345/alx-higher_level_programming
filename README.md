@@ -1,21 +1,20 @@
 # Higher_level_programming - Python, JavaScript, SQL
 This repo contains all the projects that I have done in the alx-Holberton curriculum on Higher level programming.
 
-## What Does High Level Language (HLL) Mean?
+### What Does High Level Language (HLL) Mean?
 A high-level language is any programming language that enables development of a program in a much more user-friendly programming context and is generally independent of the computer's hardware architecture.
 
 A high-level language has a higher level of abstraction from the computer, and focuses more on the programming logic rather than the underlying hardware components such as memory addressing and register utilization.
 
 
-## Acknowledgements:
+### Acknowledgements:
 All work contained in this project was completed as part of the curriculum for the ALX-SE programme. `ALX Africa` is an online full-stack software engineering program that prepares students for careers in the tech industry using project-based peer learning. 
 
-## Technologies:
+### Technologies:
 - Shell Scripts are written in Bash 4
 - Python Scripts are written with Python 3
 - MySQL 8.0 (version 8.0)
 - Tested on Ubuntu 20.04 LTS
-<br>
 
 ### Projects:
 All of the following folders are projects done during the studies:
@@ -37,4 +36,3 @@ Project name | Description |
 | [`0x0C-python-almost_a_circle`](https://github.com/rania345/alx-higher_level_programming/tree/main/0x0C-python-almost_a_circle) | Learning about unit testing, serialization, deserialization, JSON, `args` and `kwargs` in **Python** |
 | [`0x0D-SQL_introduction`](https://github.com/rania345/alx-higher_level_programming/tree/main/0x0E-SQL_more_queries) | Learning about how to create a new user, manage privileges for a user, `PRIMARY KEY`, `FOREIGN KEY`, constraints, subqueries, `JOIN` and `UNION` with **MySQL** |
 | [`0x0E-SQL_more_queries`](https://github.com/rania345/alx-higher_level_programming/tree/main/0x0E-SQL_more_queries) | More on how create a new user, manage privileges for a user, `PRIMARY KEY`, `FOREIGN KEY`, constraints, subqueries, `JOIN` and `UNION`  and working with tables using **MySQL** |
-<br>
