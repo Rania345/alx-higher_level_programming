@@ -25,7 +25,7 @@ To create a Python Virtual Environment, allowing you to install specific depende
     $ python3 -m venv venv
     $ source venv/bin/activate
 ### Install `MySQLdb` module version 2.0.x
-For installing `MySQLdb`, you need to have `MySQL` installed: [How to install MySQL 8.0 in Ubuntu 20.04](https://intranet.alxswe.com/projects/272)
+For installing `MySQLdb`, you need to have `MySQL` installed: [**How to install MySQL 8.0 in Ubuntu 20.04**](https://intranet.alxswe.com/projects/272)
 
     $ sudo apt-get install python3-dev
     $ sudo apt-get install libmysqlclient-dev
