@@ -1,7 +1,7 @@
 #!/usr/bin/python3
-"""Sends a POST request to a given URL with a given email
-Usage: ./6-post_email.py <URL> <email>
-Displays the body of the response
+"""that script:
+takes in a URL.
+sends a request to the URL and displays the value of the X-Request-Id variable found in the header of the response.
 """
 import sys
 import requests

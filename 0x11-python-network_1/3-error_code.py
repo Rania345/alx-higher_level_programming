@@ -1,7 +1,8 @@
 #!/usr/bin/python3
-"""Sends a request to a given URL and displays the response body
-Usage: ./3-error_code.py <URL>
-Handles HTTP errors
+"""that script:
+takes in a URL.
+sends a request to the URL.
+displays the body of the response (decoded in utf-8).
 """
 import sys
 import urllib.error
