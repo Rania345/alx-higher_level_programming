@@ -1,7 +1,8 @@
 #!/usr/bin/python3
 """that script:
 takes in a letter.
-sends POST request to http://0.0.0.0:5000/search_user with the letter as a parameter.
+sends POST request to http://0.0.0.0:5000/search_user
+with the letter as a parameter.
 If no letter is provided, sends `q=""`
 """
 import sys
