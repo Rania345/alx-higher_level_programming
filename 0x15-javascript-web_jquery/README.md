@@ -13,10 +13,8 @@ Together, JavaScript and jQuery are commonly used to create rich, interactive we
 - [JavaScript in the browser](https://intranet.alxswe.com/concepts/3)
 - [Dealing with data statically versus dynamically](https://intranet.alxswe.com/concepts/35)
 
-
 ## Resources
-### Read or watch:
-
+#### Read or watch:
 - [What is JavaScript?]()
 - [Selector]()
 - [Get and set content]()
@@ -43,7 +41,7 @@ Together, JavaScript and jQuery are commonly used to create rich, interactive we
 - HTML should not reload for each action: DOM manipulation, update values, fetch data…
 
 ## More Info
-### Import JQuery
+#### Import JQuery
     <head>
         <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     </head>
